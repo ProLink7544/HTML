@@ -1,5 +1,5 @@
 ## Project Title
-*SIMPLE HTML
+*PERSONAL PORTFOLIO
 
 ## Author Name
 *PROTUS NGUGI
