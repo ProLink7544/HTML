@@ -5,7 +5,7 @@
 *PROTUS NGUGI
 
 ## Description
-*A simple html page showing a personal portiforio
+*A simple html web page showing a personal portiforio
 
 ## Getting Started
 *Click on the link below it will direct you to a browser.
