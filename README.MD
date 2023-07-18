@@ -11,7 +11,7 @@
 *Click on the link below it will direct you to a browser.
 
 ## Technologies Used
-*HTML5
+*HTML
 *CSS
 
 ## Contact Information
